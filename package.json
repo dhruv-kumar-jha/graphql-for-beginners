@@ -1,0 +1,30 @@
+{
+  "name": "graphql-for-beginners",
+  "version": "1.0.0",
+  "description": "GraphQL For Beginners",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhruv-kumar-jha/graphql-for-beginners.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhruv-kumar-jha/graphql-for-beginners/issues"
+  },
+  "homepage": "https://github.com/dhruv-kumar-jha/graphql-for-beginners#readme",
+  "devDependencies": {
+    "bcrypt-nodejs": "^0.0.3",
+    "bluebird": "^3.5.0",
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.3",
+    "express": "^4.15.2",
+    "express-graphql": "^0.6.4",
+    "graphql": "^0.9.3",
+    "mongoose": "^4.9.5"
+  }
+}
